@@ -80,3 +80,5 @@ For any queries or feedback, please reach out:
 
 * Email: amitk1602info@gmail.com
 
+⭐ **If you like this project, give it a star!** ⭐
+
